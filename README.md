@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou o Rodrigo (Chaves)</h1>
-<h3 align="center">Desenvolvedor Android e Back End PHP (Laravel)</h3>
+<h1 align="left">Olá 👋, Eu sou o Rodrigo (Chaves)</h1>
+<h3 align="left">Desenvolvedor Android e Back End PHP (Laravel)</h3>
 
 - 🔭 Atualmente estou trabalhando no [Admin Free](https://adminfree.chavesdev.com.br/)
 
