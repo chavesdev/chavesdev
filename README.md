@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou o Rodrigo (Chaves)</h1>
 <h3 align="center">Desenvolvedor Android e Back End PHP (Laravel)</h3>
 
-- 🔭 Atualmente estou trabalhando no [Admin Free](http://adminfree.chavesdev.com.br/)
+- 🔭 Atualmente estou trabalhando no [Admin Free](https://adminfree.chavesdev.com.br/)
 
 - 🌱 Atualmente estou me aprofundando em **RxJava, e Dagger**
 
-- 🤝 Qualquer ajuda será bem vinda no **Melhor Mercado**
+- 🤝 Qualquer ajuda será bem vinda no [Melhor Mercado](https://github.com/chavesdev/melhor_mercado)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
