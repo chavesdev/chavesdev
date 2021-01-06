@@ -5,8 +5,6 @@
 
 - 🌱 Atualmente estou me aprofundando em **RxJava, e Dagger**
 
-- 🤝 Qualquer ajuda será bem vinda no [Melhor Mercado](https://github.com/chavesdev/melhor_mercado)
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/chaves_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chaves_dev" height="30" width="40" /></a>
