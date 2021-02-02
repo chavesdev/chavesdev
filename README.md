@@ -1,7 +1,7 @@
 <h1 align="left">E ai, blz?, Eu sou o Rodrigo (Chaves)</h1>
 <h3 align="left">Atualmente trabalho como Android Dev mas passei um bom tempo no Back End com PHP (Laravel, CodeIgniter, CakePHP)</h3>
 
-- Eu faco parte da equipe de Android na @dynamoxApp
+- Eu faco parte da equipe de Android na [AppDynamox](https://github.com/AppDynamox)
 
 - 🔭 Nas horas vagas eu aplico alguns conhecimentos no [Admin Free](https://adminfree.chavesdev.com.br/), alem de tentar acabar com o cafe do mundo.
 
