@@ -1,11 +1,11 @@
 <h1 align="left">E ai, blz?, Eu sou o Rodrigo (Chaves)</h1>
 <h3 align="left">Atualmente trabalho como Android Dev mas passei um bom tempo no Back End com PHP (Laravel, CodeIgniter, CakePHP)</h3>
 
-- Eu faco parte da equipe de Android na [AppDynamox](https://github.com/AppDynamox)
+- Eu faco parte da equipe de Android na [Compasso Uol](https://compassouol.com/)
 
 - 🔭 Nas horas vagas eu aplico alguns conhecimentos no [Admin Free](https://adminfree.chavesdev.com.br/), alem de tentar acabar com o cafe do mundo.
 
-- 🌱 E tbm estou me aprofundando em **RxJava, Dagger e Coroutines**
+- 🌱 E tbm estou me aprofundando em **Koin , Coroutines e UX Design**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
