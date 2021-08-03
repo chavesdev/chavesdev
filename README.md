@@ -3,7 +3,7 @@
 
 - Eu faco parte da equipe de Android na [Compasso Uol](https://compassouol.com/)
 
-- 🔭 Nas horas vagas eu aplico alguns conhecimentos no [Admin Free](https://adminfree.chavesdev.com.br/), alem de tentar acabar com o cafe do mundo.
+- 🔭 Nas horas vagas eu dou uma de empreendedor em alguns projetos, um deles é o  [Melhor Mercado](https://play.google.com/store/apps/details?id=com.chavesdev.melhormercado)
 
 - 🌱 E tbm estou me aprofundando em **Koin , Coroutines e UX Design**
 
@@ -14,5 +14,3 @@
 <a href="https://instagram.com/chavesdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chavesdev" height="30" width="40" /></a>
 <a href="https://medium.com/@rodrigochaves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rodrigochaves" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavesdev&layout=compact" alt="chavesdev" /></p>
