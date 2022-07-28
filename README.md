@@ -1,5 +1,5 @@
 <h1 align="left">E ai, blz?, Eu sou o Rodrigo (Chaves)</h1>
-<h3 align="left">Atualmente trabalho como Android Dev mas passei um bom tempo no Back End com PHP (Laravel, CodeIgniter, CakePHP)</h3>
+<h3 align="left">Atualmente trabalho como Android Dev mas passei um bom tempo no Back End com PHP na maior parte com Laravel</h3>
 
 - Eu faço parte da equipe de Android na [Mindera Brasil](https://mindera.com/)
 
@@ -7,10 +7,23 @@
 
 - 🌱 E tbm estou me aprofundando em **Koin , Coroutines e UX Design**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/chaves_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chaves_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rodrigochavesdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigochavesdev" height="30" width="40" /></a>
-<a href="https://instagram.com/chavesdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chavesdev" height="30" width="40" /></a>
-<a href="https://medium.com/@rodrigochaves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rodrigochaves" height="30" width="40" /></a>
-</p>
+<div align="center">
+<a href="https://linkedin.com/in/rodrigochavesdev" target="blank">
+<img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://instagram.com/chavesdev" target="blank">
+<img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+</div>
+
+<hr>
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chavesdev&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chavesdev&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
