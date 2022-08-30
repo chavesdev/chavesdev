@@ -1,8 +1,6 @@
 <h1 align="left">E ai, blz?, Eu sou o Rodrigo (Chaves)</h1>
 <h3 align="left">Atualmente trabalho como Android Dev mas passei um bom tempo no Back End com PHP na maior parte com Laravel</h3>
 
-- Eu faço parte da equipe de Android na [Mindera Brasil](https://mindera.com/)
-
 - 🔭 Nas horas vagas eu dou uma de empreendedor em alguns projetos, um deles é o  [Melhor Mercado](https://play.google.com/store/apps/details?id=com.chavesdev.melhormercado)
 
 - 🌱 E tbm estou me aprofundando em **Koin , Coroutines e UX Design**
