@@ -1,5 +1,5 @@
 <h1 align="left">E ai, blz?, Eu sou o Rodrigo (Chaves)</h1>
-<h3 align="left">Atualmente trabalho como Android Dev mas passei um bom tempo no Back End com PHP na maior parte com Laravel</h3>
+<h3 align="left">Dev Android.</h3>
 
 - 🔭 Nas horas vagas eu dou uma de empreendedor em alguns projetos, um deles é o  [Melhor Mercado](https://play.google.com/store/apps/details?id=com.chavesdev.melhormercado)
 
