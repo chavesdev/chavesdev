@@ -3,7 +3,7 @@
 
 - 🔭 Nas horas vagas eu dou uma de empreendedor em alguns projetos, um deles é o  [Melhor Mercado](https://play.google.com/store/apps/details?id=com.chavesdev.melhormercado)
 
-- 🌱 E tbm estou me aprofundando em **Koin , Coroutines e UX Design**
+- 🌱 E tbm estou me aprofundando em **Koin , Coroutines e Jetpack Compose**
 
 <div align="center">
 <a href="https://linkedin.com/in/rodrigochavesdev" target="blank">
