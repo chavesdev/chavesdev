@@ -5,18 +5,8 @@
 
 - 🌱 E tbm estou me aprofundando em **Koin , Coroutines e Jetpack Compose**
 
-<div align="center">
 
-
-</div>
-
-<hr>
-<div align="center">
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chavesdev&langs_count=4)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chavesdev&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
+| Top Langs | Github stats |
+| :---: | :---: |
+| ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chavesdev&langs_count=4&theme=onedark) | ![Rodrigo's GitHub stats](https://github-stats-extended.vercel.app/api?username=chavesdev&theme=onedark) |
 
