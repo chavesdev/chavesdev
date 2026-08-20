@@ -8,5 +8,5 @@
 
 | Top Langs | Github stats |
 | :---: | :---: |
-| ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chavesdev&langs_count=4&theme=onedark) | ![Rodrigo's GitHub stats](https://github-stats-extended.vercel.app/api?username=chavesdev&theme=onedark) |
+| ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chavesdev&langs_count=4&theme=onedark) | [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=chavesdev&rank_icon=percentile&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=chavesdev&rank_icon=percentile&include_all_commits=true&theme=onedark) |
 
